@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection for AmEx
 
-![Fraud Detection](https://user-images.githubusercontent.com/your-image-link)
+![Fraud Detection](https://github.com/user-attachments/assets/4cfc5ef5-4216-49bc-8e82-461faefc29ff)
 
 ## 📌 Overview
 This project focuses on detecting fraudulent credit card transactions for American Express (AmEx) using machine learning models. The goal is to classify transactions as fraudulent or legitimate based on historical transaction data.
